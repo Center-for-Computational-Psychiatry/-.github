@@ -1,4 +1,4 @@
-# -.github
+# Click me
 
 Welcome to the Mt. Sinai Center for Computational Psychiatry GitHub!
 
