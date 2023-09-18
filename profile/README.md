@@ -13,5 +13,4 @@ Repositories are tagged as follows:
 + **tutorial_** : self-contained code for a particular analysis tailored for teaching
 + **course_** : course related materials 
 
-
-
+For 2023-2024 Speaker Series Schedule, see [here](https://center-for-computational-psychiatry.github.io/speaker_series/)
